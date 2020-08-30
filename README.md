@@ -1,5 +1,5 @@
 # Nature Image Classification: Project Overview
-I created this model to classify airplane, car, cat, dog, flower, fruit, motorbike and person images. Did this project on Kaggle virtual machine on GPU.
+I created this model to classify aeroplane, car, cat, dog, flower, fruit, motorbike and person images. Did this project on Kaggle virtual machine on GPU.
 * Data from [Natural Images](https://www.kaggle.com/prasunroy/natural-images).
 * Get files and perform labeling.
 * Perform Preprocessing images augmentation.
